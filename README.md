@@ -1,2 +1,2 @@
 # 2_lesson
-Lesson num.2
+HELLO WORLD
